@@ -1,1 +1,1 @@
-#Coupled mode theory simulator for PTWPA.#
+# Coupled mode theory simulator for PTWPA.
